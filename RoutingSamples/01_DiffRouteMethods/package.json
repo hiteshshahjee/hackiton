@@ -1,0 +1,14 @@
+{
+  "name": "differentroutemethods",
+  "version": "0.0.1",
+  "description": "Sample program for different http route methods",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitesh Shahjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}

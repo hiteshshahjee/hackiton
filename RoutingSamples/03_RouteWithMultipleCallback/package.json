@@ -1,0 +1,14 @@
+{
+  "name": "routewithmultiplecallback",
+  "version": "0.0.1",
+  "description": "Sample program for chain on multiple call back for a single route",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitesh Shahjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
